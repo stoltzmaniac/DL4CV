@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "/home/pyimagesearch/.virtualenvs/dl4cv/bin/python"
+    "python.pythonPath": "/home/pyimagesearch/.virtualenvs/dl4cv/bin/python",
+
+    "files.watcherExclude": {
+        "**/SB_Code/**": true
+      }
+    
+    
 }
